@@ -17,3 +17,6 @@ in miles per gallon, and engine size.
 To make the analysis manageable and sample of 5,000 records has been selected from
 this extensive dataset.
 Data from: https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes
+
+
+By: Soukaïna Mahboub Mehboub (Github @Aerosophia)
