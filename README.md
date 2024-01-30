@@ -18,5 +18,8 @@ To make the analysis manageable and sample of 5,000 records has been selected fr
 this extensive dataset.
 Data from: https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes
 
+Find the report [here](https://github.com/Aerosophia/Used-Cars/blob/main/Used%20Cars%20Analysis%20and%20Model%20Building/SoukainaMahboubMehboub-DelFinalRmd.pdf) .
+[Files](https://github.com/Aerosophia/Used-Cars/tree/main/Used%20Cars%20Analysis%20and%20Model%20Building) (CSV, etc).
+
 
 By: Soukaïna Mahboub Mehboub (Github @Aerosophia)
